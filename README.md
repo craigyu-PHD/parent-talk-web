@@ -1,2 +1,3 @@
 # parent-talk-web
-parent-talk-web
+streamlit
+requests
